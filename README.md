@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BK20210310
 - 👀 I’m interested in data science and finance.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning machine learning and algorithm.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email: asteven5211@yahoo.com.tw
 
