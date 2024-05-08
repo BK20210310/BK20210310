@@ -1,6 +1,6 @@
-- 👋 Hi, I’m BK.
-- 👀 I’m interested in data science and finance.
-- 🌱 I’m currently learning machine learning and algorithm.
+- 👋 Hi, I’m BK. 
+- 👀 I’m interested in data science and machine learning.
+- 🌱 I’m currently work as an AI software engineer.
 - 📫 Email: asteven5211@yahoo.com.tw
 
 <!---
